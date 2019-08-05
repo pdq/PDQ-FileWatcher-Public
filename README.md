@@ -20,3 +20,8 @@ The *Chaos Koala* is busy creating and modifying text files in some specific dir
 * Use multiple threads so that the program doesn't block on a single large or locked file.
 * Program will be run on Windows 10.
 * File names are case insensitive.
+
+# Review Instructions
+1. Create a github repo.
+2. Write code.
+3. Send us an email with the URL of your repo.
